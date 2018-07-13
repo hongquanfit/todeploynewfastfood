@@ -1,0 +1,26 @@
+{
+  "name": "font-icons-trungquan17",
+  "authors": [
+    "Trung Quan <quanlightning17@gmail.com>"
+  ],
+  "description": "Font Icon for framgia_event projects",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/trungquan17/font-icons.git",
+  "ignore": [
+    "README.md"
+  ],
+  "_release": "1d9b466a39",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "1d9b466a39981b880ad995dc3f78b83869378c58"
+  },
+  "_source": "https://github.com/trungquan17/font-icons.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/trungquan17/font-icons.git",
+  "_direct": true
+}

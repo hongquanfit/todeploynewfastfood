@@ -1,0 +1,27 @@
+{
+  "name": "newfastfood",
+  "description": "no",
+  "main": "",
+  "authors": [
+    "jerryiq96x <jerryiq96x@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/hongquanfit/framgia_fastfood",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "https://github.com/twbs/bootstrap.git#^4.1.1",
+    "Font-Awesome": "https://github.com/FortAwesome/Font-Awesome.git#^5.0.13",
+    "jquery": "https://github.com/jquery/jquery.git#^3.3.1",
+    "font-icons-trungquan17": "https://github.com/trungquan17/font-icons.git",
+    "AlertifyJS": "https://github.com/MohammadYounes/AlertifyJS.git#^1.11.0",
+    "eonasdan-bootstrap-datetimepicker": "^4.17.47",
+    "select2": "https://github.com/select2/select2.git#^4.0.5"
+  }
+}

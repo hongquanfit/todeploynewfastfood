@@ -1,0 +1,17 @@
+{
+  "name": "font-icons-trungquan17",
+  "version": "1.0.1",
+  "authors": [
+    "Trung Quan <quanlightning17@gmail.com>"
+  ],
+  "description": "Font Icon for framgia_event projects",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/trungquan17/font-icons.git",
+  "ignore": [
+    "README.md"
+  ]
+}
